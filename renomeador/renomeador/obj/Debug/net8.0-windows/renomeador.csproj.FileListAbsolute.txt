@@ -1,0 +1,16 @@
+D:\Desktop\Programando\ProjetoCS\renomeador\renomeador\bin\Debug\net8.0-windows\renomeador.exe
+D:\Desktop\Programando\ProjetoCS\renomeador\renomeador\bin\Debug\net8.0-windows\renomeador.deps.json
+D:\Desktop\Programando\ProjetoCS\renomeador\renomeador\bin\Debug\net8.0-windows\renomeador.runtimeconfig.json
+D:\Desktop\Programando\ProjetoCS\renomeador\renomeador\bin\Debug\net8.0-windows\renomeador.dll
+D:\Desktop\Programando\ProjetoCS\renomeador\renomeador\bin\Debug\net8.0-windows\renomeador.pdb
+D:\Desktop\Programando\ProjetoCS\renomeador\renomeador\obj\Debug\net8.0-windows\renomeador.Form1.resources
+D:\Desktop\Programando\ProjetoCS\renomeador\renomeador\obj\Debug\net8.0-windows\renomeador.csproj.GenerateResource.cache
+D:\Desktop\Programando\ProjetoCS\renomeador\renomeador\obj\Debug\net8.0-windows\renomeador.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Programando\ProjetoCS\renomeador\renomeador\obj\Debug\net8.0-windows\renomeador.AssemblyInfoInputs.cache
+D:\Desktop\Programando\ProjetoCS\renomeador\renomeador\obj\Debug\net8.0-windows\renomeador.AssemblyInfo.cs
+D:\Desktop\Programando\ProjetoCS\renomeador\renomeador\obj\Debug\net8.0-windows\renomeador.csproj.CoreCompileInputs.cache
+D:\Desktop\Programando\ProjetoCS\renomeador\renomeador\obj\Debug\net8.0-windows\renomeador.dll
+D:\Desktop\Programando\ProjetoCS\renomeador\renomeador\obj\Debug\net8.0-windows\refint\renomeador.dll
+D:\Desktop\Programando\ProjetoCS\renomeador\renomeador\obj\Debug\net8.0-windows\renomeador.pdb
+D:\Desktop\Programando\ProjetoCS\renomeador\renomeador\obj\Debug\net8.0-windows\renomeador.genruntimeconfig.cache
+D:\Desktop\Programando\ProjetoCS\renomeador\renomeador\obj\Debug\net8.0-windows\ref\renomeador.dll
